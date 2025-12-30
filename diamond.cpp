@@ -39,3 +39,5 @@ int main(){
         cout<<endl;
     }
 }
+
+//pattern
